@@ -2,9 +2,11 @@
 CodeQL底层原理分析
 
 ## 前言
-网上参考了官方文档和大量其他人的分享，大部分是进行QL查询分析，编写漏洞查询规则等，我主要目的是想要分析CodeQL是如何生成数据库、如何构建数据流图、以及从数据库查询的原理等，分享记录在此
+官方文档主要为指导QL语言编写漏洞规则，个人目的是想分析CodeQL如何进行的数据流图构建与查询原理。
 
-codeql如何使用以及如何编写查询规则不再赘述，参考官方文档：https://codeql.github.com/docs
+如有错误，欢迎指正
+
+文档主要内容如下：
 
 ## 一、CodeQL概览
 
@@ -22,5 +24,8 @@ codeql如何使用以及如何编写查询规则不再赘述，参考官方文�
 
 ## 参考链接
 [https://github.com/ASTTeam/CodeQL](https://github.com/ASTTeam/CodeQL)
+
 [https://codeql.github.com/docs](https://codeql.github.com/docs)
+
 [https://paper.seebug.org/1921/](https://paper.seebug.org/1921/)
+
