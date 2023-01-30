@@ -32,13 +32,13 @@ github源码地址：https://github.com/github/codeql
 
         例如内置的Source和sink：
 
-        ![image-20230106111021954](D:\git\CodeQL-LowLevel-Analyze\img\image-20230106111021954.png)
+        ![image-20230106111021954](.\img\image-20230106111021954.png)
 
       - src：内置ql规则库，包含有限的安全类和非安全类规则
 
         例如CWE关联规则(ql/src/Security)：
 
-        ![image-20230106110911016](D:\git\CodeQL-LowLevel-Analyze\img\image-20230106110911016.png)
+        ![image-20230106110911016](.\img\image-20230106110911016.png)
 
         
 
