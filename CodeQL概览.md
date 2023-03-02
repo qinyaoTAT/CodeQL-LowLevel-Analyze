@@ -8,7 +8,7 @@
 
 2、Semmle公司的lgtm平台长期监控GitHub开源项目（比如微软、NASA、Google），发现并上报了诸多中间件安全与框架安全漏洞，逐渐在安全圈打出了知名度
 
-3、19年微软GitHub收购Semmle，同年开源了CodeQL 
+3、19年微软GitHub收购Semmle，同年开源了CodeQL 引擎
 
 4、22年底关闭了LGTM.com平台
 
